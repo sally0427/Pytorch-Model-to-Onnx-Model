@@ -1,6 +1,6 @@
 # Use
 ## Put your pt model file in this project folder
-![image](https://github.com/sally0427/Pytorch-Model-to-Onnx-Model/README/1.png)
+![image](https://github.com/sally0427/Pytorch-Model-to-Onnx-Model/tree/master/README/1.png)
 
 ## Processing the python named "pt2ONNX.py"
 you can get the onnx model file in project folder.
