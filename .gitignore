@@ -1,2 +1,2 @@
-.pt
-.onnx
+*.pt
+*.onnx
